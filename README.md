@@ -8,3 +8,5 @@
 * if you can not play 3 passes your enemy gets a penalty
 * a penalty is a straight 6 unit long pass in any direction
 * you can shoot a penalty onto an already taken position
+## Cool gif
+![ronaldinho juggeling a ball](https://github.com/EIonTusk/paper-football/blob/main/media/ronaldinho.gif)
